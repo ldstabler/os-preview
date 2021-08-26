@@ -34,7 +34,7 @@ var appData = {
 		"id": "inbox",
 		"image": "resources/ginbox_icon.png",
 		"text": "You received a new email",
-		"content": "<h1>Test</h1>"
+		"content": ""
 	},
 	"recipes": {
 		"title": "Recipes",
@@ -42,7 +42,7 @@ var appData = {
 		"id": "recipes",
 		"image": "resources/recipes.jpg",
 		"text": "See recipes for you",
-		"content": ""
+		"content": "<div style='position:relative;height:100%;overflow:hidden'><iframe src='alpha.html' allowfullscreen></iframe></div>"
 	},
 	"maps": {
 		"title": "Maps",
