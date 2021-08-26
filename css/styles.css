@@ -14,7 +14,7 @@
     --menu-quick-settings-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     --menu-active-height: 360px;
     --quick-menu-active-height: auto;
-    --default-cursor: url("../resources/fuchsia_cursor.cur"), default;
+    --default-cursor: url("../resources/fu_cur.png"), default;
 }
 
 * {
