@@ -93,6 +93,15 @@ var appData = {
 		"text": "",
 		"content": ""
 	}
+	"myapp": {
+    "title": "ello",
+    "color": "#3F51B5",
+    "id": "myapp",
+    "image": "resources/empty.png",
+    "text": "",
+    "content": "<div style='position:relative;height:100%;overflow:hidden'><iframe src='https://example.com' allowfullscreen></iframe></div>"
+},
+
 };
 
 // Helper functions
