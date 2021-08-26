@@ -54,10 +54,10 @@ var appData = {
 		"content": "<div style='position:relative;height:100%;overflow:hidden'><iframe src='maps.html' allowfullscreen></iframe></div>"
 	},
 	"alpha": {
-		"title": "Story Alpha",
+		"title": "Messages",
 		"color": "#3F51B5",
 		"id": "alpha",
-		"image": "resources/empty.png",
+		"image": "resources/message_2.png",
 		"text": "",
 		"content": "<div style='position:relative;height:100%;overflow:hidden'><iframe src='alpha.html' allowfullscreen></iframe></div>"
 	},
