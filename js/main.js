@@ -1,3 +1,4 @@
+
 'use strict';
 
 // Fix Problem with the Scroll inside a draggable
@@ -34,12 +35,7 @@ var appData = {
 		"id": "inbox",
 		"image": "resources/ginbox_icon.png",
 		"text": "You received a new email",
-		"content": "<!doctype HTML>
-		<html>
-		<body>
-		<div style='position:relative;height:100%;overflow:hidden'><iframe src='alpha.html' allowfullscreen></iframe></div>
-		</body>
-		</html>"
+		"content": ""
 	},
 	"recipes": {
 		"title": "Recipes",
@@ -47,7 +43,7 @@ var appData = {
 		"id": "recipes",
 		"image": "resources/recipes.jpg",
 		"text": "See recipes for you",
-		"content": "<div style='position:relative;height:100%;overflow:hidden'><iframe src='alpha.html' allowfullscreen></iframe></div>"
+		"content": ""
 	},
 	"maps": {
 		"title": "Maps",
