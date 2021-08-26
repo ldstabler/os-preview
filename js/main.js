@@ -34,7 +34,12 @@ var appData = {
 		"id": "inbox",
 		"image": "resources/ginbox_icon.png",
 		"text": "You received a new email",
-		"content": ""
+		"content": "<!doctype HTML>
+		<html>
+		<body>
+		<div style='position:relative;height:100%;overflow:hidden'><iframe src='alpha.html' allowfullscreen></iframe></div>
+		</body>
+		</html>"
 	},
 	"recipes": {
 		"title": "Recipes",
